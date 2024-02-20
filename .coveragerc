@@ -1,0 +1,6 @@
+# .coveragerc
+[report]
+show_missing = True
+omit =
+    assessment/tests/*
+	assessment/helper.py
